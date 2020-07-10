@@ -5,7 +5,7 @@
 - ### 🏫 I currently go to school at [Mission Bay High School](https://www.sandiegounified.org/schools/mission-bay) & [San Diego Community College District](https://www.sdccd.edu/).
 - ### 🖥 I currently work at [Programination](https://www.programination.com/) as a Full Stack Software Engineer.
 - ### 🔭 I’m currently working on my portfolio website [matthewlin.dev](https://matthewlin.dev).
-- ### 🌱 I’m currently learning ReactJS, and ReactNative.
+- ### 🌱 I’m currently learning ReactJS, and ReactNative. My full Full Stack Development Journey / Personal Developer Roadmap can be found at [My Development Journey Repository](https://github.com/matthew-plusprogramming/FullStackDevelopmentJourney).
 - ### 💬 Ask me about anything related to HTML, CSS, React, Node, or C++.
 - ### 📫 How to reach me: matthewlinplusprogramming@gmail.com or any listed above.
 
