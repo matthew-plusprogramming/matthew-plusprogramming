@@ -1,4 +1,13 @@
-### Hi there 👋
+![Brand Logo](https://services.matthewlin.dev/github.png)
+
+### Hi. I’m Matthew! I am a Software Engineer from San Diego, California.
+
+- ### 🏫 I currently go to school at [Mission Bay High School](https://www.sandiegounified.org/schools/mission-bay) & [San Diego Community College District](https://www.sdccd.edu/).
+- ### 🖥 I currently work at [Programination](https://www.programination.com/) as a Full Stack Software Engineer.
+- ### 🔭 I’m currently working on my portfolio website [matthewlin.dev](https://matthewlin.dev).
+- ### 🌱 I’m currently learning ReactJS, and ReactNative.
+- ### 💬 Ask me about anything related to HTML, CSS, React, Node, or C++.
+- ### 📫 How to reach me: matthewlinplusprogramming@gmail.com or any listed above.
 
 <!--
 **matthew-plusprogramming/matthew-plusprogramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
