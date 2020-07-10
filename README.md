@@ -1,4 +1,4 @@
-![Brand Logo](https://services.matthewlin.dev/github.png)
+[![Brand Logo](https://services.matthewlin.dev/github.png)](https://matthewlin.dev)
 
 ### Hi. I’m Matthew! I am a Software Engineer from San Diego, California.
 
