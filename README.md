@@ -6,6 +6,7 @@
 
 - ### 🏫 I currently go to school at [Mission Bay High School](https://www.sandiegounified.org/schools/mission-bay) & [San Diego Mesa College](http://www.sdmesa.edu/).
 - ### 🖥 I currently work at [Programination](https://www.programination.com/) as a Software Engineer (Part-time).
+- ### 🎞️ I'm currently creating educational content on [My YouTube Channel](https://www.youtube.com/channel/UCqVIqm9pT-4lH8v2UzkfxIA) ➤ [Code Repo](https://github.com/matthew-plusprogramming/MatthewLinYT)
 - ### 🔭 I’m currently working on Various Projects.
 - ### 🌱 I’m currently learning TypeScript. My full Full Stack Development Journey / Personal Developer Roadmap can be found at [My Development Journey Repository](https://github.com/matthew-plusprogramming/FullStackDevelopmentJourney).
 - ### 💬 Ask me about anything related to HTML, CSS, React, React Native, NodeJS, or C++.
