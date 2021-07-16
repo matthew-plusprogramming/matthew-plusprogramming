@@ -5,7 +5,7 @@
 ### Hi. I’m Matthew! I am a Software Engineer from San Diego, California.
 
 - ### 🏫 I currently go to school at [Mission Bay High School](https://www.sandiegounified.org/schools/mission-bay) & [San Diego Mesa College](http://www.sdmesa.edu/).
-- ### 🖥 I formerly worked at [Programination](https://www.programination.com/) as a Software Engineer (Part-time).
+- ### 🖥 I currently work at [Brevy](https://brevy.com/) as a Software Engineer.
 - ### 🎞️ I'm currently creating educational content on [My YouTube Channel](https://www.youtube.com/c/matthewlin) ➤ [Code Repo](https://github.com/matthew-plusprogramming/MatthewLinYT)
 - ### 🔭 I’m currently working on Various Projects.
 - ### 🌱 I’m currently learning TypeScript. My full Full Stack Development Journey / Personal Developer Roadmap can be found at [My Development Journey Repository](https://github.com/matthew-plusprogramming/FullStackDevelopmentJourney).
