@@ -4,7 +4,7 @@
 
 ### Hi. I’m Matthew! I am a Software Engineer from San Diego, California.
 
-- ### 🏫 I currently go to school at [Mission Bay High School](https://www.sandiegounified.org/schools/mission-bay) & [San Diego Mesa College](http://www.sdmesa.edu/).
+- ### 🏫 I will be going to school at [Cal Poly San Luis Obispo](https://www.calpoly.edu/) in the fall of 2022.
 - ### 🖥 I currently work at [Brevy](https://brevy.com/) as a Software Engineer.
 - ### 🎞️ I'm currently creating educational content on [My YouTube Channel](https://www.youtube.com/c/matthewlin) ➤ [Code Repo](https://github.com/matthew-plusprogramming/MatthewLinYT)
 - ### 🔭 I’m currently working on Various Projects.
