@@ -4,6 +4,7 @@
 
 ### Hi. I’m Matthew! I am a Software Engineer from San Diego, California.
 
+- ### 🏗️ Check out some of my typescript project templates! ([GraphQL Server Template](https://github.com/matthew-plusprogramming/typescript-graphql-server-template), [React Vite Tempalte](https://github.com/matthew-plusprogramming/typescript-react-template))
 - ### 🏫 I will be going to school at [Cal Poly San Luis Obispo](https://www.calpoly.edu/) in the fall of 2022.
 - ### 🖥 I currently work at [Brevy](https://brevy.com/) as a Software Engineer.
 - ### 🎞️ I'm currently creating educational content on [My YouTube Channel](https://www.youtube.com/c/matthewlin) ➤ [Code Repo](https://github.com/matthew-plusprogramming/MatthewLinYT)
