@@ -5,7 +5,8 @@
 
 - ### 📍 San Luis Obispo, CA (4th year at [Cal Poly San Luis Obispo](https://www.calpoly.edu/))
 - ### 🖥 Amazon Inc. Jr. Software Development Engineer III
-- ### 📫 [LinkedIn](https://linkedin.com/in/matthewlin-sd)
+- ### 📫 Connect with me on [LinkedIn](https://linkedin.com/in/matthewlin-sd)!
+- ### 🎥 Check me out on [YouTube](https://youtube.com/matthewlin)
 
 [![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=matthew-plusprogramming&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
