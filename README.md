@@ -3,10 +3,10 @@
 ### Hi. I’m Matthew! I am a Software Engineer from San Diego, California.
 
 
-- ### 📍 San Luis Obispo, CA (4th year at [Cal Poly San Luis Obispo](https://www.calpoly.edu/))
-- ### 🖥 Amazon Inc. Jr. Software Development Engineer III
-- ### 📫 Connect with me on [LinkedIn](https://linkedin.com/in/matthewlin-sd)!
-- ### 🎥 Check me out on [YouTube](https://youtube.com/matthewlin)
+- ### 📍 San Luis Obispo, CA (4th year at __[Cal Poly San Luis Obispo](https://www.calpoly.edu/)__)
+- ### 🖥 Jr. Software Development Engineer III __[Amazon, San Luis Obispo](https://www.amazon.jobs/en/landing_pages/letyourmindplay-bookstech)__
+- ### 📫 Connect with me on __[LinkedIn](https://linkedin.com/in/matthewlin-sd)__!
+- ### 🎥 Check out my channel on __[YouTube](https://youtube.com/matthewlin)__
 
 [![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=matthew-plusprogramming&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
