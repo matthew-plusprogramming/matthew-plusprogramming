@@ -4,7 +4,7 @@
 
 
 - ### 📍 San Luis Obispo, CA (4th year at __[Cal Poly San Luis Obispo](https://www.calpoly.edu/)__)
-- ### 🖥 Jr. Software Development Engineer III __[Amazon, San Luis Obispo](https://www.amazon.jobs/en/landing_pages/letyourmindplay-bookstech)__
+- ### 🖥 Incoming SDE I @ __[Amazon, San Luis Obispo](https://www.amazon.jobs/en/landing_pages/letyourmindplay-bookstech)__
 - ### 📫 Connect with me on __[LinkedIn](https://linkedin.com/in/matthewlin-sd)__
 - ### 🎥 Check out my channel on __[YouTube](https://youtube.com/matthewlin)__
 
