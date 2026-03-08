@@ -1,26 +1,40 @@
-![](https://komarev.com/ghpvc/?username=matthew-plusprogramming)
+<div align="center">
 
-### Hi. I’m Matthew! I am a Software Engineer from San Diego, California.
+# Hey, I'm Matthew 👋
 
+**Software Engineer · San Diego, CA**
 
-- ### 📍 San Luis Obispo, CA (4th year at __[Cal Poly San Luis Obispo](https://www.calpoly.edu/)__)
-- ### 🖥 Incoming SDE I @ __[Amazon, San Luis Obispo](https://www.amazon.jobs/en/landing_pages/letyourmindplay-bookstech)__
-- ### 📫 Connect with me on __[LinkedIn](https://linkedin.com/in/matthewlin-sd)__
-- ### 🎥 Check out my channel on __[YouTube](https://youtube.com/matthewlin)__
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewlin-sd)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/matthewlin)
 
-[![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=matthew-plusprogramming&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-<!--
-**matthew-plusprogramming/matthew-plusprogramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 &nbsp; 4th year at **[Cal Poly San Luis Obispo](https://www.calpoly.edu/)**
+
+💼 &nbsp; Incoming SDE I @ **[Amazon](https://www.amazon.jobs/en/landing_pages/letyourmindplay-bookstech)**
+
+📍 &nbsp; San Luis Obispo, CA
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+[![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthew-plusprogramming&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-plusprogramming&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=matthew-plusprogramming&style=flat-square&color=blue)
+
+</div>
