@@ -2,11 +2,11 @@
 
 # Hey, I'm Matthew 👋
 
-**Software Engineer · San Diego, CA**
+**Software Engineer · San Diego, CA · San Luis Obispo, CA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewlin-sd)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/matthewlin)
-
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=fff)](https://matthewlin.substack.com/)
 </div>
 
 ---
@@ -46,7 +46,7 @@
 
 **AI**&ensp;
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&style=flat-square&logoColor=white)](#)
 ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&logoColor=white)
 
 **Cloud & DevOps**&ensp;
